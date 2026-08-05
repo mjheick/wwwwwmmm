@@ -4,7 +4,7 @@
 A format to store relevant answers to questions in areas of files that can hold them. This way, when media is extracted or converted that we can carry the same general answers to filling later metadata with it.
 
 # wwwww
-A [JSON](https://en.wikipedia.org/wiki/JSON) data structure that can be embedded within a file.
+A [JSON](https://www.json.org) data structure that can be embedded within a file.
 
 ```
 {
