@@ -1,5 +1,7 @@
 # wwwwwmmm
-[who, what, where, when, why](https://en.wikipedia.org/wiki/Five_Ws) multiple media metadata. also, alliteration.
+[who, what, where, when, why](https://en.wikipedia.org/wiki/Five_Ws) multiple media metadata.
+
+also, alliteration.
 
 A format to store relevant answers to questions in areas of files that can hold them. This way, when media is extracted or converted that we can carry the same general answers to filling later metadata with it.
 
