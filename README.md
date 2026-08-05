@@ -79,4 +79,7 @@ exiftool -UserComment='{"":""}' filename.jpg
 ```
 
 ## Video: MPEG / AVI / MKV
-find a metadata element for this, prob r/w using both exiftool and [ffmpeg](https://ffmpeg.org/)
+There's a comment field that reportedly holds >11k of data.
+```
+exiftool -Comment='{"":""}' filename.mp4
+```
